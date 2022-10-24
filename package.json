@@ -1,8 +1,20 @@
 {
-  "name": "azalais-dark-",
+  "name": "azalais-dark-theme",
   "displayName": "Azalais Dark ",
-  "description": " Azalais Dark theme ",
+  "description": "Made to be easier on the eye",
   "version": "0.0.1",
+  "publisher": "ChristopherAlphonse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristopherAlphonse/azalais-dark-"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "christopher alphonse",
+    "azalais dark",
+    "azalais theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
