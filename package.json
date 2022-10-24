@@ -1,0 +1,21 @@
+{
+  "name": "azalais-dark-",
+  "displayName": "Azalais Dark ",
+  "description": " Azalais Dark theme ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": " Azalais Dark ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ Azalais Dark -color-theme.json"
+      }
+    ]
+  }
+}
