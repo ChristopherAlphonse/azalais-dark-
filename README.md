@@ -55,7 +55,7 @@ These are my personal settings for vs code aesthetics
 
 ```json
 
-z"workbench.colorTheme": " Azalais Dark ",
+"workbench.colorTheme": " Azalais Dark ",
  "editor.tabSize": 3,
  "editor.fontSize": 16,
  "terminal.integrated.fontSize": 12,
