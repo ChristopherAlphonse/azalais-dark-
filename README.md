@@ -32,6 +32,12 @@ The goal is to create color blind themes for VS code we all can enjoy.
 
 ![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924640/Aza%20Theme/React_rhxatn_b6a950.png)
 
+# Installation
+
+<p>Go to <strong> Azalais Dark </strong> extension page at the <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme"> Market place </a> or by  <i>CTRL + SHIFT + X</i> </span>
+<h5>Apply, Reload, Enjoy  </h5>
+</p>
+
 <br>
 These are my personal settings for vs code aesthetics
 <br>
