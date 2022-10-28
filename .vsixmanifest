@@ -16,10 +16,7 @@
 				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/ChristopherAlphonse/azalais-dark-" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/ChristopherAlphonse/azalais-dark-" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/ChristopherAlphonse/azalais-dark-/issues" />
-
-
-
-				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#3390FF" />
+				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#000058" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
 				

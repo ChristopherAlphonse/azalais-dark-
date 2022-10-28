@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/ChristopherAlphonse/azalais-dark-/issues"
   },
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "azalais",
@@ -26,7 +27,7 @@
     "protanopia"
   ],
   "galleryBanner": {
-    "color": "#3390FF",
+    "color": "#000058",
     "theme": "dark"
   },
   "engines": {
@@ -43,5 +44,8 @@
         "path": "./themes/ Azalais Dark -color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "vsce": "vsce package && vsce login Christopheralphonse && vsce publish"
   }
 }
