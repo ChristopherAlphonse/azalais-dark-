@@ -1,9 +1,8 @@
 # [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme)
 
-## [GitHub Repo](https://github.com/ChristopherAlphonse/azalais-dark-)
+## The goal is to create color blind themes for VS code we all can enjoy.
 
-The goal is to create color blind themes for VS code we all can enjoy.
-
+<br>
 # VS Code
 
 ![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666929618/Aza%20Theme/fs_fer76p.jpg)
