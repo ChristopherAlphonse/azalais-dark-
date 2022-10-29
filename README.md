@@ -1,6 +1,6 @@
 # Azalais Dark
 
-### Color blind theme for VS code.
+### A theme for VS code.
 
 ![Visual Studio Version](https://img.shields.io/visual-studio-marketplace/v/ChristopherAlphonse.azalais-dark-theme?color=green&style=for-the-badge) ![Visual Studio Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ChristopherAlphonse.azalais-dark-theme?style=for-the-badge) ![Visual Studio Rating](https://img.shields.io/visual-studio-marketplace/r/ChristopherAlphonse.azalais-dark-theme?color=cyan&style=for-the-badge)
 
