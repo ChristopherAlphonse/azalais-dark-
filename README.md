@@ -1,8 +1,15 @@
-# [Azalais Dark](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme)
+# Azalais Dark
 
-## The goal is to create color blind themes for VS code we all can enjoy.
+### Color blind theme for VS code.
 
-<br>
+![Visual Studio Version](https://img.shields.io/visual-studio-marketplace/v/ChristopherAlphonse.azalais-dark-theme?color=green&style=for-the-badge) ![Visual Studio Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ChristopherAlphonse.azalais-dark-theme?style=for-the-badge) ![Visual Studio Rating](https://img.shields.io/visual-studio-marketplace/r/ChristopherAlphonse.azalais-dark-theme?color=cyan&style=for-the-badge)
+
+<p align="center">
+	<a href="#">
+		<img src="./192.png" />
+	</a>
+</p>
+
 # VS Code
 
 ![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666929618/Aza%20Theme/fs_fer76p.jpg)
