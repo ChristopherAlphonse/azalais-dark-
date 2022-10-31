@@ -21,10 +21,12 @@
     "christopher alphonse",
     "dark theme",
     "eye fatigue",
-    "color-theme",
+    "color blind",
     "tritanopia",
     "deuteranopia",
-    "protanopia"
+    "protanopia",
+    "focus",
+    "minimal"
   ],
   "galleryBanner": {
     "color": "#000058",
@@ -33,6 +35,13 @@
   "engines": {
     "vscode": "^1.72.0"
   },
+  "devDependencies": {
+    "vscode": "^1.0.0"
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
   "categories": [
     "Themes"
   ],
@@ -41,11 +50,17 @@
       {
         "label": " Azalais Dark ",
         "uiTheme": "vs-dark",
-        "path": "./themes/ Azalais Dark -color-theme.json"
+        "path": "./themes/Azalais Dark.json"
+      },
+      {
+        "label": "Azalais Dark (Neo)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azalais Dark (Neo).json"
       }
     ]
   },
   "scripts": {
-    "vsce": "vsce package && vsce publish"
+    "devi": "yarn global add npm-check-updates && ncu -u && yarn install",
+    "package": "yarn devi && mkdir build && vsce package -o ./build/azalais-dark-theme.vsix"
   }
 }
