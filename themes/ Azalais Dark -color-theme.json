@@ -1,8 +1,6 @@
 {
   "name": "Azalais Dark",
   "type": "classic",
-  "author": "Christopher Alphonse",
-  "colorSpaceName": "sRGB",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

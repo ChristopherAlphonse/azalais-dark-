@@ -2,7 +2,7 @@
   "name": "azalais-dark-theme",
   "displayName": "Azalais Dark ",
   "description": "Dark theme made to reduce eye fatigue for Visual Studio Code",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "ChristopherAlphonse",
   "homepage": "https://github.com/ChristopherAlphonse/azalais-dark-",
   "repository": {
@@ -35,9 +35,6 @@
   "engines": {
     "vscode": "^1.72.0"
   },
-  "devDependencies": {
-    "vscode": "^1.0.0"
-  },
   "extensionKind": [
     "ui",
     "workspace"
@@ -51,16 +48,11 @@
         "label": " Azalais Dark ",
         "uiTheme": "vs-dark",
         "path": "./themes/Azalais Dark.json"
-      },
-      {
-        "label": "Azalais Dark (Neo)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Azalais Dark (Neo).json"
       }
     ]
   },
   "scripts": {
     "devi": "yarn global add npm-check-updates && ncu -u && yarn install",
-    "package": "yarn devi && mkdir build && vsce package -o ./build/azalais-dark-theme.vsix"
+    "package": "yarn devi && mkdir build && vsce package -o ./build/azalais-dark-theme.vsix && vsce publish"
   }
 }
