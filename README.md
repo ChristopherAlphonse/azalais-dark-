@@ -65,6 +65,10 @@ These are my personal settings for vs code aesthetics
  "window.zoomLevel": 1
 ```
 
+# Continue
+
+Please check out [Powershell Settings](https://github.com/ChristopherAlphonse/Powershell) for more more.
+
 [html]: ./ScreeenShots/HTML.JPG
 [vue]: ./ScreeenShots/Vue.JPG
 [typescript]: ./ScreeenShots/TS.JPG
