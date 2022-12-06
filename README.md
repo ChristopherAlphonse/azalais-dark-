@@ -20,7 +20,7 @@
 
 ![VUE][vue]
 
-# VUE
+# CSS
 
 ![CSS][css]
 
