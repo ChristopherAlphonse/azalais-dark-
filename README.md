@@ -1,42 +1,32 @@
 # Azalais Dark
 
-### A theme for VS code.
-
-![Visual Studio Version](https://img.shields.io/visual-studio-marketplace/v/ChristopherAlphonse.azalais-dark-theme?color=green&style=for-the-badge) ![Visual Studio Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ChristopherAlphonse.azalais-dark-theme?style=for-the-badge) ![Visual Studio Rating](https://img.shields.io/visual-studio-marketplace/r/ChristopherAlphonse.azalais-dark-theme?color=cyan&style=for-the-badge)
-
 <p align="center">
 	<a href="#">
 		<img src="./192.png" />
 	</a>
 </p>
 
-# VS Code
+<p align="center">
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666929618/Aza%20Theme/fs_fer76p.jpg)
+![Visual Studio Version](https://img.shields.io/visual-studio-marketplace/v/ChristopherAlphonse.azalais-dark-theme?color=green&style=for-the-badge) ![Visual Studio Installs](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ChristopherAlphonse.azalais-dark-theme?style=for-the-badge) ![Visual Studio Rating](https://img.shields.io/visual-studio-marketplace/r/ChristopherAlphonse.azalais-dark-theme?color=cyan&style=for-the-badge)
 
-## HTML
+</p>
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924817/Aza%20Theme/Html_j3oumm_3a0235.png)
+# HTML
 
-### CSS
+![HTML][html]
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924781/Aza%20Theme/css_wrwqrp_8e878e.png)
+# VUE
 
-### JSON
+![VUE][vue]
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924707/Aza%20Theme/json_dmbqg8_854cbc.png)
+# VUE
 
-### NODE
+![CSS][css]
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924733/Aza%20Theme/server_code_afv5se_495f61.png)
+# TypeScript
 
-### ENV
-
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924684/Aza%20Theme/env_nnxzix_96609d.png)
-
-### React
-
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924640/Aza%20Theme/React_rhxatn_b6a950.png)
+![typescript][typescript]
 
 # Installation
 
@@ -74,3 +64,8 @@ These are my personal settings for vs code aesthetics
  "terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
  "window.zoomLevel": 1
 ```
+
+[html]: ./ScreeenShots/HTML.JPG
+[vue]: ./ScreeenShots/Vue.JPG
+[typescript]: ./ScreeenShots/TS.JPG
+[css]: ./ScreeenShots/Css.JPG
