@@ -48,14 +48,9 @@
   "contributes": {
     "themes": [
       {
-        "label": " Azalais Dark ",
+        "label": "Azalais Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Azalais Dark.json"
-      },
-      {
-        "label": "Azalais Dark (Neo)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Azalais Dark (Neo).json"
+        "path": "./themes/ Azalais Dark -color-theme.json"
       }
     ]
   },
