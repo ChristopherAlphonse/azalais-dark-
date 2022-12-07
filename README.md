@@ -10,33 +10,29 @@
 	</a>
 </p>
 
-# VS Code
-
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666929618/Aza%20Theme/fs_fer76p.jpg)
-
 ## HTML
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924817/Aza%20Theme/Html_j3oumm_3a0235.png)
+![HTML][html]
 
 ### CSS
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924781/Aza%20Theme/css_wrwqrp_8e878e.png)
+![CSS][css]
 
 ### JSON
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924707/Aza%20Theme/json_dmbqg8_854cbc.png)
+![JSON][json]
+
+### TypeScript
+
+![ts][ts]
+
+### RUST
+
+![rust][rust]
 
 ### NODE
 
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924733/Aza%20Theme/server_code_afv5se_495f61.png)
-
-### ENV
-
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924684/Aza%20Theme/env_nnxzix_96609d.png)
-
-### React
-
-![ScreenShot](https://res.cloudinary.com/img-api-pager-2/image/upload/v1666924640/Aza%20Theme/React_rhxatn_b6a950.png)
+![server][server]
 
 # Installation
 
@@ -74,3 +70,12 @@ These are my personal settings for vs code aesthetics
  "terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
  "window.zoomLevel": 1
 ```
+
+For More information visit [View here](https://github.com/ChristopherAlphonse/Powershell)
+
+[json]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/JSON_jqqwhu.jpg
+[server]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/SERVER_zayubs.jpg
+[html]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/HTML_nz1mym.jpg
+[ts]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/TS_wawvhn.jpg
+[rust]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/RUST_edlial.jpg
+[css]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/CSS_fdg0m6.jpg
