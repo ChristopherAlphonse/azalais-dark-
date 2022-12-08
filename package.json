@@ -45,7 +45,7 @@
   "contributes": {
     "themes": [
       {
-        "label": " Azalais Dark ",
+        "label": "Azalais Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Azalais Dark.json"
       }
