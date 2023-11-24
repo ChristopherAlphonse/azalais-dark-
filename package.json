@@ -1,9 +1,10 @@
 {
   "name": "azalais-dark-theme",
-  "displayName": "Azalais Dark ",
+  "displayName": "Azalais Dark",
   "description": "Dark theme made to reduce eye fatigue for Visual Studio Code",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "ChristopherAlphonse",
+  "license": "MIT",
   "homepage": "https://github.com/ChristopherAlphonse/azalais-dark-",
   "repository": {
     "type": "git",
@@ -47,12 +48,12 @@
       {
         "label": "Azalais",
         "uiTheme": "vs-dark",
-        "path": "./themes/azalais-color-theme"
+        "path": "./themes/Azalais-Classic.json"
       },
       {
         "label": "Azalais Glow",
         "uiTheme": "vs-dark",
-        "path": "./themes/azalais-color-glow"
+        "path": "./themes/Azalais-Glow.json"
       }
     ]
   },
@@ -61,5 +62,22 @@
   },
   "dependencies": {
     "generator-code": "^1.8.0"
-  }
+  },
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadges.dev/version/christopheralphonse.azalais-dark-theme.png",
+      "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/installs/christopheralphonse.azalais-dark-theme",
+      "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/rating/christopheralphonse.azalais-dark-theme",
+      "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
+      "description": "Extension Rating"
+    }
+  ]
 }
