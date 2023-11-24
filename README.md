@@ -6,36 +6,32 @@
 	</a>
 </p>
 
-<!-- ## HTML
+# Install
 
-![HTML][html] -->
-
-# Installation
-
-<p>Go to <strong> Azalais Dark </strong> extension page at the <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme"> Market place </a> or by  <i>CTRL + SHIFT + X</i> </span>
+<p>Go to <strong> Azalais Dark </strong> extension page at the <a href="https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.azalais-dark-theme"> Market place </a> </i> </span>
 <h5>Apply, Reload, Enjoy  </h5>
 </p>
 
-<br>
-These are my personal settings for vs code aesthetics
-<br>
+press `ctl/command + p` to launch quick open then run
 
-```json
- "terminal.integrated.fontFamily": "MesloLGM NF",
- "workbench.iconTheme": "vscode-icons",
- "editor.fontWeight": "300"
+```
+ext install christopheralphonse.azalais-dark-theme
 ```
 
-```json
+## Azalais Glow
 
-"workbench.colorTheme": " Azalais Dark ",
- "editor.tabSize": 3,
- "editor.fontSize": 16,
- "terminal.integrated.fontSize": 12,
- "terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
- "window.zoomLevel": 1
-```
+<br/>
+<p align="center">
+	<a href="#">
+		<img src="./images/glow.png" />
+	</a>
+</p>
+<br/>
 
-For More information visit [View here](https://github.com/ChristopherAlphonse/Powershell)
+## Azalais Classic
 
-[json]: https://res.cloudinary.com/img-api-pager-2/image/upload/v1670386320/Aza%20Theme/JSON_jqqwhu.jpg
+<p align="center">
+	<a href="#">
+		<img src="./images/normal.png" />
+	</a>
+</p>
