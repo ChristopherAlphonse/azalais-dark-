@@ -68,16 +68,6 @@
       "url": "https://vsmarketplacebadges.dev/version/christopheralphonse.azalais-dark-theme.png",
       "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
       "description": "Extension version"
-    },
-    {
-      "url": "https://vsmarketplacebadges.dev/installs/christopheralphonse.azalais-dark-theme",
-      "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
-      "description": "Extension installs"
-    },
-    {
-      "url": "https://vsmarketplacebadges.dev/rating/christopheralphonse.azalais-dark-theme",
-      "href": "https://marketplace.visualstudio.com/items/christopheralphonse.azalais-dark-theme",
-      "description": "Extension Rating"
     }
   ]
 }
