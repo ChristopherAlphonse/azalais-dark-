@@ -2,7 +2,7 @@
   "name": "azalais-dark-theme",
   "displayName": "Azalais Dark ",
   "description": "Dark theme made to reduce eye fatigue for Visual Studio Code",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "ChristopherAlphonse",
   "homepage": "https://github.com/ChristopherAlphonse/azalais-dark-",
   "repository": {
@@ -50,7 +50,7 @@
         "path": "./themes/azalais-color-theme"
       },
       {
-        "label": "Azalais Dark",
+        "label": "Azalais Glow",
         "uiTheme": "vs-dark",
         "path": "./themes/azalais-color-glow"
       }
