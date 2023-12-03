@@ -48,10 +48,7 @@
     "badge.foreground": "#1d2433",
     "badge.background": "#26EDB2",
 
-    // Progress bar
     "progressBar.background": "#26EDB2",
-
-    // Lists and trees
 
     "list.dropBackground": "#2f3b54",
     "list.inactiveFocusBackground": "#2f3b54",
@@ -72,7 +69,6 @@
     "list.inactiveSelectionBackground": "#323842",
     "list.inactiveSelectionForeground": "#d7dae0",
 
-    // Activity Bar
     "activityBar.background": "#171c28",
     "activityBar.dropBorder": "#2f3b54",
     "activityBar.foreground": "#8695b7",
@@ -81,16 +77,14 @@
     "activityBarBadge.background": "#26EDB2",
     "activityBarBadge.foreground": "#171c28",
 
-    // Side Bar
     "sideBar.background": "#171c28",
     "sideBar.foreground": "#8695b7",
-    // "sideBar.border": "#1d2433",
+
     "sideBarTitle.foreground": "#26EDB2",
     "sideBarSectionHeader.background": "#1d2433",
     "sideBarSectionHeader.foreground": "#26EDB2",
     "sideBarSectionHeader.border": "#171c28",
 
-    // Editor Groups
     "editorGroup.border": "#2f3b54",
     "editorGroup.dropBackground": "#2f3b54",
     "editorGroupHeader.noTabsBackground": "#1d2433",
@@ -99,7 +93,6 @@
     "editorGroup.emptyBackground": "#1d2433",
     "editorGroup.focusedEmptyBorder": "#1d2433",
 
-    // Tabs
     "tab.activeBackground": "#2e327195",
 
     "tab.unfocusedActiveBackground": "#1d2433",
@@ -123,7 +116,6 @@
     "tab.unfocusedInactiveModifiedBorder": "#26EDB2",
     "editorPane.background": "#1d2433",
 
-    // Editor colors
     "editor.background": "#1d2433",
     "editor.foreground": "#a2aabc",
     "editorLineNumber.foreground": "#8695b755",
@@ -131,33 +123,26 @@
     "editorCursor.background": "#1d2433",
     "editorCursor.foreground": "#2dba90",
 
-    // Editor selection colors
     "editor.selectionBackground": "#2f3b54",
     "editor.selectionForeground": "#a2aabc",
     "editor.inactiveSelectionBackground": "#c24031",
     "editor.selectionHighlightBackground": "#2f3b54",
-    // "editor.selectionHighlightBorder": "#8695b755",
 
-    // Editor word highlight colors
     "editor.wordHighlightBackground": "#c24031",
-    // "editor.wordHighlightBorder": "#8695b7",
-    "editor.wordHighlightStrongBackground": "#c24031",
-    // "editor.wordHighlightStrongBorder": "#26EDB2",
 
-    // Editor find/replace colors
+    "editor.wordHighlightStrongBackground": "#5251513d",
+
     "editor.findMatchBackground": "#c24031",
     "editor.findMatchHighlightBackground": "#c24031",
     "editor.findRangeHighlightBackground": "#c24031",
     "editor.findMatchBorder": "#26EDB2",
-    // "editor.findMatchHighlightBorder": "#26EDB2",
-    // "editor.findRangeHighlightBorder": "#26EDB2",
+
     "editor.hoverHighlightBackground": "#c24031",
     "editor.lineHighlightBackground": "#2f3b54",
     "editor.lineHighlightBorder": "#2f3b54",
     "editorLink.activeForeground": "#26EDB2",
     "editor.rangeHighlightBackground": "#2f3b54",
 
-    // "editor.rangeHighlightBorder": "#8695b755",
     "editorRuler.foreground": "#2f3b54",
     "editorCodeLens.foreground": "#d7dce2",
     "editorBracketMatch.border": "#26EDB2",
@@ -166,7 +151,6 @@
     "editorWhitespace.foreground": "#ffffff1d",
     "editorBracketMatch.background": "#515a6b",
 
-    // Overview Ruler
     "editorOverviewRuler.border": "#2f3b54",
     "editorOverviewRuler.findMatchForeground": "#26EDB2",
     "editorOverviewRuler.rangeHighlightForeground": "#8695b7",
@@ -181,17 +165,14 @@
     "editorOverviewRuler.infoForeground": "#5ccfe6",
     "editorOverviewRuler.bracketMatchForeground": "#26EDB2",
 
-    // Errors and warnings
     "editorError.foreground": "#c24038",
-    // "editorError.border": "#ef6b73",
-    "editorWarning.foreground": "#249676",
-    // "editorWarning.border": "#ef6b73",
-    "editorInfo.foreground": "#5ccfe6",
-    // "editorInfo.border": "#5ccfe6",
-    "editorHint.foreground": "#26EDB2",
-    // "editorHint.border": "#26EDB2",
 
-    // diff color
+    "editorWarning.foreground": "#249676",
+
+    "editorInfo.foreground": "#5ccfe6",
+
+    "editorHint.foreground": "#26EDB2",
+
     "diffEditor.insertedTextBorder": "#bae67e44",
     "diffEditor.removedTextBackground": "#ef6b7322",
     "diffEditor.removedTextBorder": "#ef6b7344",
