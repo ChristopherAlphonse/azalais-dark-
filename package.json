@@ -58,7 +58,7 @@
     ]
   },
   "scripts": {
-    "package": "vsce package && vsce publish"
+    "packaged": "vsce package && vsce publish"
   },
   "dependencies": {
     "generator-code": "^1.8.0"
