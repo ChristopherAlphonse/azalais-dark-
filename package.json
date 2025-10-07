@@ -61,7 +61,7 @@
     "packaged": "vsce package && vsce publish"
   },
   "dependencies": {
-    "generator-code": "^1.8.0"
+    "generator-code": "^1.11.13"
   },
   "badges": [
     {
